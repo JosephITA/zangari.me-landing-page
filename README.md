@@ -1,3 +1,3 @@
-# zangari.me-landing-page
+# 🌐 My Landing Page
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/JosephITA/zangari.me-landing-page)
+This repository contains the source code for **zangari.me**, a simple and responsive landing page. The project is edited using [StackBlitz](https://stackblitz.com/)
